@@ -1,6 +1,6 @@
 ### Please read the documentation for the software usage. You can rerun the whole notebook in google colab if you want to re-training the models.
 
-## Project Proposal: Sentiment Analysis on Disneyland Reviews
+## Project: Sentiment Analysis on Disneyland Reviews
 
 #### Video Demo: https://www.youtube.com/watch?v=QzCZrBJDoB4 
 
@@ -74,9 +74,7 @@
 - Algorithms Comparison **6 HOURS**
 - Overall Documentation and Presentation **10 HOURS**
 
-
-## Project Proposal
-### Progress made thus far
+## Progress Report
 - Access to Data: The Disneyland Reviews dataset, publicly available on Kaggle (https://www.kaggle.com/datasets/arushchillar/disneyland-reviews/data), was successfully loaded for analysis.
 - Exploratory Data Analysis: Generated a bar chart to visualize Rating Distribution as a Percentage, providing insights into the distribution of customer satisfaction levels.
 - Text Preprocessing: Lowercasing; Removal of Unwanted Patterns; Stemming and Lemmatization; Stop Word Removal; Generated Word Cloud.
