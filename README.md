@@ -2,7 +2,7 @@
 
 ## Project: Sentiment Analysis on Disneyland Reviews
 
-#### Video Demo: https://www.youtube.com/watch?v=QzCZrBJDoB4 
+#### Video Demo: https://www.youtube.com/watch?v=LWwqTFJPiMc
 
 ### Team Members 
 
